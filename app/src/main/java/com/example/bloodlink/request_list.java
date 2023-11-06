@@ -25,5 +25,4 @@ public class request_list extends AppCompatActivity {
         name1.setText(name);
         phone1.setText(phone);
     }
-
 }
